@@ -17,14 +17,14 @@
 
 ## 🎯 **About Me**
 
-> **Junior Software Engineer** at EPAM Systems with expertise in **cloud-native architectures** and **full-stack development**  
-> Currently pursuing B.Tech CSE at SOA University (CGPA: 9.36/10) | **Available for rtCamp WordPress Developer Program - Jan 2026**
+> **Software Engineering Student** with expertise in **cloud-native architectures** and **full-stack development**  
+> Pursuing B.Tech CSE at SOA University (CGPA: 9.36/10) | **Passionate about building scalable web solutions**
 
 - 🔥 **200+ DSA problems** solved across competitive programming platforms
 - ⚡ **99.7% accuracy** achieved in AI-driven cybersecurity systems
 - 🌟 **5-star HackerRank** rating with proven problem-solving abilities
 - 🚀 **AWS & Azure certified** with hands-on cloud development experience
-- 🏆 **EPAM Systems Intern** - Building enterprise-grade microservices
+- 🏆 **EPAM Systems Intern** - Building enterprise-grade applications
 
 ---
 
@@ -37,13 +37,12 @@ Key Achievements
 🔹 Implemented AWS Cognito authentication (95% reduction in unauthorized access)
 🔹 Optimized DynamoDB queries for 60% faster performance
 
-text
 
 ---
 
 ## 🛠️ **Technical Arsenal**
 
-### **Core Web Technologies** *(rtCamp Ready)*
+### **Core Web Technologies**
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
@@ -79,7 +78,7 @@ text
 
 ---
 
-## 🏗️ **Featured Projects** *(Showcasing rtCamp-Relevant Skills)*
+## 🏗️ **Featured Projects**
 
 ### 🌐 **CureVerse: Hospital Management System**
 **Tech Stack:** `Java` `Spring Boot` `Thymeleaf` `MySQL` `Spring Security`
@@ -141,34 +140,13 @@ text
 
 ---
 
-## 🎯 **Why rtCamp WordPress Developer Program?**
+## 💡 **Areas of Interest**
 
-### **Perfect Alignment with Requirements:**
-✅ **Solid web fundamentals:** HTML, CSS, JavaScript, MySQL proficiency  
-✅ **PHP expertise:** OOP, debugging, framework experience via Spring Boot  
-✅ **Version control mastery:** Active Git/GitHub contributor  
-✅ **Architecture understanding:** Microservices, background job processing  
-✅ **Problem-solving skills:** Proven through 200+ coding challenges  
-✅ **Quick learner:** Successfully adapted to cloud technologies at EPAM  
-
-### **Ready to Contribute:**
-- 🔧 **Enterprise experience** working with large-scale systems
-- 📚 **Currently enrolled** in rtCamp's WordPress Development Course
-- 💡 **Strong foundation** in web technologies and best practices
-- 🚀 **Available January 2026** for the training program
-
----
-
-## 📊 **Current Focus Areas**
-
-const currentGoals = {
-learning: ["WordPress Theme Development", "Custom Plugin Creation", "Gutenberg Blocks"],
-building: ["WordPress Portfolio Projects", "PHP/MySQL Applications"],
-preparing: ["rtCamp WordPress Course", "WordPress Coding Standards"],
-target: "WordPress Developer at rtCamp - January 2026 Intake"
-};
-
-text
+- 🌐 **Full-stack Web Development** with modern frameworks
+- 🔧 **Cloud-native Architecture** and microservices design
+- 🤖 **AI/ML Integration** in web applications
+- 🔐 **Cybersecurity** and secure application development
+- 📱 **Responsive Design** and user experience optimization
 
 ---
 
