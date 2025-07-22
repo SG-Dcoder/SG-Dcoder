@@ -1,24 +1,198 @@
-<h1 align="center">Hi 👋, I'm Suraj Ghosh</h1>
-<h3 align="center">3rd Year undergraduate student pursuing B.Tech in Computer Science and Engineering. Tech enthusiast with a strong passion for programming, particularly in JAVA, C++, and Kotlin. Skilled in front-end development and actively engaged in hackathons, achieving a 5-star rating on Hackerrank. Committed to continuous learning and seeking opportunities to further enhance knowledge and skills in the field of technology.</h3>
+<div align="center">
+  
+# Hi 👋, I'm **Suraj Ghosh**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sg-dcoder&label=Profile%20views&color=0e75b6&style=flat" alt="sg-dcoder" /> </p>
+### 🚀 Full-Stack Developer | WordPress Enthusiast | Cloud Engineer
+### *Crafting scalable web solutions with enterprise-grade quality*
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sg-dcoder" alt="sg-dcoder" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=sg-dcoder&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 
-- 📫 How to reach me **surajghosh2724@gmail.com**
+[![GitHub followers](https://img.shields.io/github/followers/sg-dcoder?label=Follow&style=social)](https://github.com/sg-dcoder)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sg-dcoder)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/surajghosh2724)
 
-<h3 align="left">Connect with me:</h3>
+</div>
+
+---
+
+## 🎯 **About Me**
+
+> **Junior Software Engineer** at EPAM Systems with expertise in **cloud-native architectures** and **full-stack development**  
+> Currently pursuing B.Tech CSE at SOA University (CGPA: 9.36/10) | **Available for rtCamp WordPress Developer Program - Jan 2026**
+
+- 🔥 **200+ DSA problems** solved across competitive programming platforms
+- ⚡ **99.7% accuracy** achieved in AI-driven cybersecurity systems
+- 🌟 **5-star HackerRank** rating with proven problem-solving abilities
+- 🚀 **AWS & Azure certified** with hands-on cloud development experience
+- 🏆 **EPAM Systems Intern** - Building enterprise-grade microservices
+
+---
+
+## 💼 **Professional Experience**
+
+### **Junior Software Engineer Intern** | *EPAM Systems* | Jan 2025 - Jun 2025
+Key Achievements
+🔹 Engineered cloud-native restaurant management platform (40% operational overhead reduction)
+🔹 Developed scalable backend services supporting 500+ concurrent users
+🔹 Implemented AWS Cognito authentication (95% reduction in unauthorized access)
+🔹 Optimized DynamoDB queries for 60% faster performance
+
+text
+
+---
+
+## 🛠️ **Technical Arsenal**
+
+### **Core Web Technologies** *(rtCamp Ready)*
 <p align="left">
-<a href="https://linkedin.com/in/sg-dcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sg-dcoder" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/surajghosh2724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="surajghosh2724" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sg_dcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sg_dcoder" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="45" height="45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### **Frameworks & Libraries**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sg-dcoder&show_icons=true&locale=en&layout=compact" alt="sg-dcoder" /></p>
+### **Backend & Database**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sg-dcoder&show_icons=true&locale=en" alt="sg-dcoder" /></p>
+### **Cloud & DevOps**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sg-dcoder&" alt="sg-dcoder" /></p>
+---
+
+## 🏗️ **Featured Projects** *(Showcasing rtCamp-Relevant Skills)*
+
+### 🌐 **CureVerse: Hospital Management System**
+**Tech Stack:** `Java` `Spring Boot` `Thymeleaf` `MySQL` `Spring Security`
+- ✅ Full-stack web application with **RESTful API development**
+- ✅ **Role-based access control** and secure authentication
+- ✅ **Responsive UI** with server-side rendering
+- ✅ **Unit testing** with JUnit framework
+
+### 🤖 **AI-Driven Threat Detection System**
+**Tech Stack:** `Python` `Machine Learning` `Flask` `RESTful APIs`
+- ✅ **99.7% detection accuracy** with multi-model architecture
+- ✅ **Microservices design pattern** implementation
+- ✅ **Real-time monitoring** with automated response system
+- ✅ **API integration** for seamless data processing
+
+### 💰 **Smart Price Comparison Platform**
+**Tech Stack:** `Python` `Flask` `Selenium` `Machine Learning`
+- ✅ **Automated web scraping** across 8+ e-commerce platforms
+- ✅ **10-second API response times** with optimized performance
+- ✅ **89% accuracy sentiment analysis** using NLP techniques
+- ✅ **ARIMA forecasting model** with 5-8% MAPE accuracy
+
+---
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sg-dcoder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sg-dcoder&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sg-dcoder&theme=tokyonight)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sg-dcoder&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🏆 **Certifications & Achievements**
+
+| **Certification** | **Organization** | **Status** |
+|-------------------|------------------|------------|
+| 🔐 **Certified Cyber Security Apprentice** | EY | ✅ Certified |
+| ☁️ **AWS Academy Cloud Foundation** | AWS Academy | ✅ Graduate |
+| 🚀 **Azure AI Fundamentals (AI-900)** | Microsoft | ✅ Certified |
+| 📡 **Postman API Fundamentals** | Postman | ✅ Expert Badge |
+| 💼 **Goldman Sachs Engineering Program** | Goldman Sachs | ✅ Completed |
+| 💻 **AMCAT Software Development Trainee** | AMCAT | ✅ Certified |
+
+**Competitive Programming:**
+- 🌟 **5-star rating** on HackerRank
+- 🏅 **200+ problems solved** across GeeksforGeeks, LeetCode, and other platforms
+- 🎯 Strong algorithmic thinking and problem-solving abilities
+
+---
+
+## 🎯 **Why rtCamp WordPress Developer Program?**
+
+### **Perfect Alignment with Requirements:**
+✅ **Solid web fundamentals:** HTML, CSS, JavaScript, MySQL proficiency  
+✅ **PHP expertise:** OOP, debugging, framework experience via Spring Boot  
+✅ **Version control mastery:** Active Git/GitHub contributor  
+✅ **Architecture understanding:** Microservices, background job processing  
+✅ **Problem-solving skills:** Proven through 200+ coding challenges  
+✅ **Quick learner:** Successfully adapted to cloud technologies at EPAM  
+
+### **Ready to Contribute:**
+- 🔧 **Enterprise experience** working with large-scale systems
+- 📚 **Currently enrolled** in rtCamp's WordPress Development Course
+- 💡 **Strong foundation** in web technologies and best practices
+- 🚀 **Available January 2026** for the training program
+
+---
+
+## 📊 **Current Focus Areas**
+
+const currentGoals = {
+learning: ["WordPress Theme Development", "Custom Plugin Creation", "Gutenberg Blocks"],
+building: ["WordPress Portfolio Projects", "PHP/MySQL Applications"],
+preparing: ["rtCamp WordPress Course", "WordPress Coding Standards"],
+target: "WordPress Developer at rtCamp - January 2026 Intake"
+};
+
+text
+
+---
+
+## 🤝 **Let's Connect**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sg-dcoder)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajghosh2724@gmail.com)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/surajghosh2724)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/sg_dcoder)
+
+**📧 Email:** surajghosh2724@gmail.com  
+**📍 Location:** West Bengal, India  
+**🎓 University:** Siksha 'O' Anusandhan (ITER), Bhubaneswar
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Building tomorrow's web solutions with today's cutting-edge technologies"*
+
+**⭐ If you find my work interesting, please consider giving my repositories a star!**
+
+</div>
